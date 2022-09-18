@@ -16,6 +16,14 @@ const Home: NextPage = () => {
 
 			<Image src="/images/logo-adc-2.svg" alt="" width="101" height="202" />
 			<h1>Além do Código</h1>
+			<h2>Seja Bem Vindo</h2>
+			<br />
+			<a href='https://www.youtube.com/channel/UCtQ8Ki9M945TsBVXS_7zWNg'> Acessar canal no Yotuube</a>
+			<br />
+			<br />
+			<br />
+			<br />
+			<h3>⚒ Site em construção...</h3>
 		</div>
 	)
 }
